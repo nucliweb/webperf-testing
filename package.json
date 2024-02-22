@@ -17,6 +17,7 @@
   "author": "Joan Leon | @nucliweb",
   "license": "MIT",
   "devDependencies": {
+    "@lhci/cli": "^0.13.0",
     "serve": "^14.2.1"
   }
 }
