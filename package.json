@@ -1,0 +1,22 @@
+{
+  "name": "webperf-testing",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Web Performance Testing Workshop",
+  "scripts": {
+    "start": "serve src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webperf",
+    "performance",
+    "testing",
+    "ci",
+    "lighthouse"
+  ],
+  "author": "Joan Leon | @nucliweb",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
