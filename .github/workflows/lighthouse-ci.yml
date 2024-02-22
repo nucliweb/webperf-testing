@@ -14,4 +14,4 @@ jobs:
         run: |
           npm install
       - name: run Lighthouse CI
-        run: npm test:ci
+        run: npm run test:ci
